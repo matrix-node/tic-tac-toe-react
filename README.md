@@ -88,7 +88,7 @@ App.css	Basic styling for board layout and appearance
 
 🏁 Future Improvements
 
-🔁 Add Restart/Reset button
+🔁 Add Restart/Reset button - Checked
 
 🧮 Implement score tracking
 
